@@ -1,0 +1,3 @@
+this will test my project
+I am attempting to make a git repo locally
+wish me luck my dude
